@@ -4,7 +4,7 @@ asdfasdf
 
 
 
-| Tumble and swim steps of single bacterium | Swarm size controlled with width of the attractant/repellant  |
+| Tumble and swim steps of single bacterium | Swarm size controlled by attractant/repellant width |
 | :--------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
 |        ![](outfile0.png)         |        ![](outfile1.png)         |
 
