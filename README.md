@@ -10,6 +10,6 @@ asdfasdf
 
 
 
-| Chemotactic/reproduction/dispersal steps | 123 effect |
+| Chemotactic/reproduction/dispersal steps | Formation of mutiple swarms and their competition |
 | :--------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
 |        ![](outfile2.png)         |        ![](outfile3.png)         |
